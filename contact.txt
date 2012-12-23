@@ -1,0 +1,5 @@
+
+<center>
+Связь с Администратором сайта, E-mail: <a href="mailto:apsheronka@mail.ru"> apsheronka@mail.ru</a> <br>
+Сделано в <a href="http://apsheronsk.bozo.ru" target="">Апшеронске </a> <br>
+</center>

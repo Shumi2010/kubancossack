@@ -1,0 +1,16 @@
+
+<table>
+<tr>
+	<td><a href="index.php" target="">Главная</a></td></tr>
+<tr>	<td><a href="history.php" target="">История</a></td></tr>
+<tr>	<td><a href="voisko.php" target="">Казачье войско</a></td></tr>
+<tr>	<td><a href="kubanhistory.php" target="">Кубанские казаки</a></td></tr>
+<tr>	<td><a href="excursion.php" target="">Военные походы</a></td></tr>
+<tr>	<td><a href="anarhia.php" target="">В Революцию</a></td></tr>
+<tr>	<td><a href="arms.php" target="">Оружие</a></td></tr>
+<tr>	<td><a href="life.php" target="">Быт</a></td></tr>
+<tr>	<td><a href="modern.php" target="">Современность</a></td></tr>
+<tr>	<td><a href="links.php" target="">Ссылки</a></td></tr>
+<tr>	<td><a href="guest.php" target="">Гостевая</a></td>
+</tr>
+</table>
